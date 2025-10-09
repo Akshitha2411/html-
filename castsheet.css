@@ -1,0 +1,18 @@
+.heading{
+    color: crimson;
+    font-family: "Caveat";
+    font-size: 100px;
+    font-weight: bold;
+    font-style: italic;
+}
+.paragraph{
+    color: green;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.button{
+    font-size:150px;
+    color: blue;
+    font-weight: bold;
+}
