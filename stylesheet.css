@@ -1,3 +1,20 @@
-.heading{
-    color:green;
+.card{
+    background-image: url("https://plus.unsplash.com/premium_photo-1669750791963-ec6f3a565fb9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=688");
+    text-align: center;
+    height: 200vh;
+    background-size: cover;
 }
+
+.heading{
+    color: crimson;
+    font-family: "Caveat";
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
+.paragraph{
+    color: black;
+    font-weight:inherit;
+    font-size: 25px;
+}
+
