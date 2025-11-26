@@ -1,0 +1,77 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.bg-container{
+    background-color:azure
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.top-section-container{
+    background-color: #fb4e71;
+    background-size: cover;
+}
+.top-section-text-area {
+    margin-right: 8px;
+    padding: 4px;
+}
+
+.topsectionheading {
+    color: #ffffff;
+    font-size: 34px;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.top-section-discription {
+    color: #ffffff;
+    font-size: 19px;
+    padding: 1px;
+}
+
+.top-section-image {
+    height: 195px;
+    width: 145px;
+}
+
+.below-Section-container {
+    background-color: #e6f6ff;
+    background-size: cover;
+    height: 100vh;
+}
+
+.middel-section-records-card {
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 100px;
+    border-radius: 100px;
+}
+
+.middel-section-card-text-area {
+    margin: 4px;
+    padding: 10px;
+}
+
+.middel-section-records-heading {
+    color: #323f4b;
+    font-size: 35px;
+    margin-left: 3px;
+}
+
+.middel-section-card-discription {
+    color: #888888;
+}
+.bottom-section-image-container{
+    margin: 25px;
+    padding: 5px;
+}
+
+.b{
+    color: white;
+    height: 35px;
+    width: 150;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
