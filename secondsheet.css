@@ -1,0 +1,16 @@
+.p{
+    color: #000;
+    padding: 20px;
+    font-size: 18px;
+    margin: 20px;
+    text-align: center;
+}
+
+.page{
+    background-color: #f3e2c7;
+}
+.pg{
+    background-color: #000;
+    color: #fff;
+    padding: 25px;
+}
