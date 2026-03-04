@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.bg-container{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+}
+ .card{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 5px;
+
+    
+ }
+.heading{
+    color: #5752ab;
+    font-family: Breef Serif;
+    font-size: 50px;
+    padding: 10px;
+    margin: 10px
+
+}
+
+.paragraph{
+    color: #323f4b;
+    text-align: center ;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.bu{
+    height: 55px;
+    width: 140px;
+    border-radius: 150px;
+    margin-right: 90px;
+    padding: 5px;
+    margin: 25px;
+}
+
+.b{
+    color: white;
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+    margin-left: 15px;
+    padding: 25px;
+    margin: 25px;
+}
+
+.bb{
+    text-align: right;
+    background-color: #d7def9;
+    
+}
