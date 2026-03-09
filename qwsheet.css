@@ -1,0 +1,103 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+.bg-container {
+    background-color: #875fc0;
+}
+
+.score {
+    color: black;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    padding: 25px;
+}
+
+.iii {
+    padding: 24px;
+}
+
+.top-card-container {
+    text-align: center;
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding: 25px;
+    margin: 15px;
+}
+
+.top-card-heding {
+    color: #323f4b;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.top-card-paragraph {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.top-card-image {
+    width: 55vw;
+    height: 25vh;
+    padding: 10px;
+}
+
+.bottom-card {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin: 15px;
+    padding: 25px;
+    font-family: "Roboto";
+    border-color: #1f2933;
+}
+
+.unorderdlist {
+    list-style-type: none;
+    color: #323f4b;
+    padding: 15px;
+}
+
+.list {
+    border: solid;
+    padding: 15px;
+    margin: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-width: 2px;
+}
+
+.list-blue {
+    background-color: #875fc0;
+    color: #ffffff;
+}
+
+.b {
+    background-color: #fbaf00;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border: 0px;
+    color: #ffffff;
+    font-family: "Roboto";
+    width: 125px;
+    height: 45px;
+    margin-right: 25px;
+}
+
+.button{
+    text-align: center;
+}
