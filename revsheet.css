@@ -1,0 +1,36 @@
+#navitemA{
+    color: black;
+    font-family: 'Roboto';
+}
+#navitemB{
+    color: black;
+    font-family: 'Roboto';
+}
+#navitemC{
+    color: black;
+    font-family: 'Roboto';
+}
+#navitemD{
+    color: black;
+    font-family: 'Roboto';
+}
+.section-revolution {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+.head{
+    color: white; 
+}
+.button{
+    color: white;
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    margin-right: 10px;
+    border-width: 0;
+    background-color: #1a2137;
+    padding: 10px;
+    margin: 15px;
+    
+}
